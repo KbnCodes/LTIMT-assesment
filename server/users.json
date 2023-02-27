@@ -1,0 +1,19 @@
+[
+    {
+        "email": "admin@log.com",
+        "username": "admin",
+        "password": "admin"
+    },
+    {
+        "email": "mn@gmail.com",
+        "password": "Mn@123456"
+    },
+    {
+        "email": "nm@gmail.com",
+        "password": "Mn@123456"
+    },
+    {
+        "email": "abc@gmail.com",
+        "password": "Abc@1234"
+    }
+]
